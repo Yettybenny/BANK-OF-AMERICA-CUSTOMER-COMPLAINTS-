@@ -76,6 +76,9 @@ The dashboard was designed to be intuitive and user-friendly. Key design choices
 
 ## Key Insights
 
+
+![Screenshot (147)](https://github.com/user-attachments/assets/4f66a6bf-e518-477d-9f5f-98786fefdf30)
+
 Key insights gained from the data:
 
 - There has been a noticeable peak in complaints around 2022 with 13K complaints, followed by a slight decline in subsequent years (9K in 2023). This trend might indicate that some issues were addressed, but ongoing monitoring is essential.
