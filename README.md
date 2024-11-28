@@ -72,6 +72,8 @@ The dashboard was designed to be intuitive and user-friendly. Key design choices
 
 -Filters for Year, Product, State, and Issue allow users to explore the data based on specific criteria.
 
+- I also used Tooltips to make the state visuals more interactive, adding depth to the user experience. 
+
 ## Key Insights
 
 Key insights gained from the data:
@@ -120,4 +122,5 @@ Based on the analysis, here are some recommendations Bank of America could consi
 
 This project highlights the importance of data-driven insights for customer experience improvements in the financial industry. By identifying complaint trends and analyzing them in Power BI, I provided actionable insights for Bank of America to enhance its customer service and address common issues. This dashboard can serve as a tool for regular monitoring and improvement, helping the bank reduce complaints over time and build stronger customer relationships.
 
+Explore the dashboard here: [http://bit.ly/3YvI6bK]
 
